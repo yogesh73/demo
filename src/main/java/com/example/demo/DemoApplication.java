@@ -5,7 +5,7 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		System.out.println("");
-		System.out.println("efew");
+		System.out.println("ef");
 		
 		
 	}
