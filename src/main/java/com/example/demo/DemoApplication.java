@@ -6,7 +6,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		StringBuilder str = new StringBuilder();
 		//System.out.println(str.length() != 0?str.toString():0);
-		System.out.println("sfdsffrrdf");
+		System.out.println("sfdsffrrdfsds");
 		//System.out.println(1/10);
 		int[] arr= new int[10];
 	//	System.out.println(arr);
