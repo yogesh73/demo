@@ -9,7 +9,7 @@ public class DemoApplication {
 		System.out.println("fsdfdsd");
 		int[] arr= new int[10];
 	//	System.out.println(arr);
-		//System.out.println(arr.length);
+		System.out.println(arr.length);
  		//return new int[] {};
 		
 		System.out.println(String.format("job_%s.txt", 21));
