@@ -51,8 +51,7 @@
                 <target>1.8</target>
             </configuration>
         </plugin>
-        <!-- ... -->	
-			
+        <!-- ... -->			
 	<!-- we want sources to be processed by a specific 1.6 javac -->			
 		
         <plugin>
